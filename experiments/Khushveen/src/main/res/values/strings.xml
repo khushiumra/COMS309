@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Main-notes</string>
+    <string name="takenotes">Take Notes</string>
+    <string name="upload">Upload Documents</string>
+    <string name="goback">Back to Dashboard</string>
+    <string name="notesimage"></string>
+    <string name="uploadimage"></string>
+</resources>
